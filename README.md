@@ -26,7 +26,7 @@ Capturas de Tela
 (Insira aqui suas imagens depois de subir para a pasta /assets/screenshots/)
 Exemplo:
 
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b0122f02-f675-40a5-bf98-bec2546eab90" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b0122f02-f675-40a5-bf98-bec2546eab90" />
 
 
 Como rodar o projeto
