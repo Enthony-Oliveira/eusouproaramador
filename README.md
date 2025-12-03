@@ -23,9 +23,6 @@ Expo
 
 Capturas de Tela
 
-(Insira aqui suas imagens depois de subir para a pasta /assets/screenshots/)
-Exemplo:
-
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/b0122f02-f675-40a5-bf98-bec2546eab90" />
 
 
